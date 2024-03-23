@@ -7,6 +7,7 @@
 
 
 PT-BR | Resolução de desafios de algoritmos do HackerRank e Leetcode utilizando Java.
+<br/>
 ENGLISH-USA | Solved HackerRank and Leetcode algorithm challenges using Java.
 
 ## Desafios Resolvidos Hackerrank

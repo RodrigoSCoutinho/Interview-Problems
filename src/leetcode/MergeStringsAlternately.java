@@ -39,7 +39,7 @@ package leetcode;
 // 1 <= word1.length, word2.length <= 100
 // word1 and word2 consist of lowercase English letters.
 
-Combine duas strings,adicionando letras em ordem alternada,começando pela primeira string(word1).Se uma das strings for mais longa do que a outra,você deve simplesmente anexar as letras restantes no final da string mesclada.
+//Combine duas strings,adicionando letras em ordem alternada,começando pela primeira string(word1).Se uma das strings for mais longa do que a outra,você deve simplesmente anexar as letras restantes no final da string mesclada.
 
 class Solution {
     public String mergeAlternately(String word1, String word2) {
