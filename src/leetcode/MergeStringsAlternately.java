@@ -72,3 +72,30 @@ class Solution {
         return mergedString.toString();
     }
 }
+
+// --------------------- Outra Forma ------------------------- //
+
+class Solution {
+    public String mergeAlternately(String word1, String word2) {
+
+        int wordSize1 = word1.length();
+        int wordSize2 = word2.length();
+
+        StringBuilder stringBuilder = new StringBuilder();
+        int i = 0;
+
+        while (i < wordSize1 || i < wordSize2) {
+            if (i < wordSize1) {
+                stringBuilder.append(word1.charAt(i));
+            }
+
+            if (i < wordSize2) {
+                stringBuilder.append(word2.charAt(i));
+            }
+
+            i++;
+        }
+
+        return stringBuilder.toString();
+    }
+}
