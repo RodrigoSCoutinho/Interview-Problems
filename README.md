@@ -21,3 +21,4 @@ ENGLISH-USA | Solved HackerRank and Leetcode algorithm challenges using Java.
 ## Desafios Resolvidos Leetcode 75
 
 - [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75)
+- [Number of Recent Calls](hhttps://leetcode.com/problems/number-of-recent-calls/description/)
