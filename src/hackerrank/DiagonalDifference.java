@@ -22,19 +22,21 @@ class Result {
      */
 
     public static int diagonalDifference(List<List<Integer>> arr) {
-        int leftRightDiagonal = 0;
-        int RightLeftDiagonal = 0;
-        for (int i = 0; i < arr.size(); i++) {
-            leftRightDiagonal += arr.get(i).get(i);
-            RightLeftDiagonal += arr.get(i).get(arr.size() - 1 - i);
-        }
-        return Math.abs(leftRightDiagonal - RightLeftDiagonal);
+        int leftDiagonal = 0;
+        int rightDiagonal = 0;
+        int n = arr.size();
 
+        for (int i = 0; i < n; i++) {
+            leftDiagonal += arr.get(i).get(i);
+            rightDiagonal += arr.get(i).get(n - i - 1);
+        }
+
+        return Math.abs(leftDiagonal - rightDiagonal);
     }
 
 }
 
-public class Solution {
+public class DiagonalDifference {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));

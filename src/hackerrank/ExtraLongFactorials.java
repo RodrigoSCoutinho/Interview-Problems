@@ -14,9 +14,11 @@ public class ExtraLongFactorials {
 
     public static void extraLongFactorials(int n) {
         BigInteger factorial = BigInteger.ONE;
+
         for (int i = 1; i <= n; i++) {
             factorial = factorial.multiply(BigInteger.valueOf(i));
         }
+
         System.out.println(factorial);
     }
 
