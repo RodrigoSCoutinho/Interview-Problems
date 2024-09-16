@@ -4,7 +4,7 @@
 
 <a href="https://www.hackerrank.com/rodrigos_coding"> My Profile Hackerrank</a>
 
-<a href="https://leetcode.com/RodrigoS01/"> My Profile Leetcode</a>
+<a href="https://leetcode.com/RodrigoSCoutinho/"> My Profile Leetcode</a>
 
 <p>PT-BR | Resolução de desafios de algoritmos do HackerRank e Leetcode utilizando Java.</p>
 
