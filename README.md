@@ -41,6 +41,7 @@
 | Dijkstra's Algorithm       | O(V^2)                              | O(V^2)                             | O(V^2)                            |
 | Bellman-Ford Algorithm     | O(VE)                               | O(VE)                              | O(VE)                             |
 | Floyd-Warshall Algorithm   | O(V^3)                              | O(V^3)                             | O(V^3)                            |
+| Greedy Algorithm       | O(n log n)                      | O(n log n)                     | O(n log n)                   |
 
 **Legenda:**
 

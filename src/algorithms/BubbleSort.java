@@ -14,19 +14,19 @@ public class BubbleSort {
         }
     }
 
-    public static void bubbleSort(int[] array) {
+    public static void bubbleSort(int[] list) {
 
-        int n = array.length;
+        int n = list.length;
 
         for (int i = 0; i < n - 1; i++) {
             for (int j = 0; j < n - i - 1; j++) {
                 // Se o elemento atual for maior que o próximo
-                if (array[j] > array[j + 1]) {
+                if (list[j] > list[j + 1]) {
 
-                    // Troca array[j] e array[j + 1]
-                    int temp = array[j];
-                    array[j] = array[j + 1];
-                    array[j + 1] = temp;
+                    // Troca list[j] e list[j + 1]
+                    int temp = list[j];
+                    list[j] = list[j + 1];
+                    list[j + 1] = temp;
                 }
             }
         }
