@@ -22,6 +22,7 @@
 -   [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75)
 -   [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/)
 -   [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
+-   [Palindrone Number](https://leetcode.com/problems/palindrome-number/)
 
 # Algoritmos de Programação e suas Complexidades de Tempo
 
