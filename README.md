@@ -23,6 +23,7 @@
 -   [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/)
 -   [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
 -   [Palindrone Number](https://leetcode.com/problems/palindrome-number/)
+-   [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 
 # Algoritmos de Programação e suas Complexidades de Tempo
 
@@ -43,7 +44,7 @@
 | Dijkstra's Algorithm       | O(V^2)                              | O(V^2)                             | O(V^2)                            |
 | Bellman-Ford Algorithm     | O(VE)                               | O(VE)                              | O(VE)                             |
 | Floyd-Warshall Algorithm   | O(V^3)                              | O(V^3)                             | O(V^3)                            |
-| Greedy Algorithm       | O(n log n)                      | O(n log n)                     | O(n log n)                   |
+| Greedy Algorithm           | O(n log n)                          | O(n log n)                         | O(n log n)                        |
 
 **Legenda:**
 
