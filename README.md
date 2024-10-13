@@ -24,6 +24,7 @@
 -   [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
 -   [Palindrone Number](https://leetcode.com/problems/palindrome-number/)
 -   [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+-   [Sort An Array](https://leetcode.com/problems/sort-an-array/)
 
 # Algoritmos de Programação e suas Complexidades de Tempo
 
