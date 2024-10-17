@@ -22,9 +22,11 @@
 -   [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75)
 -   [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/)
 -   [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
--   [Palindrone Number](https://leetcode.com/problems/palindrome-number/)
+-   [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 -   [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 -   [Sort An Array](https://leetcode.com/problems/sort-an-array/)
+-   [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
+-   [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
 # Algoritmos de Programação e suas Complexidades de Tempo
 
