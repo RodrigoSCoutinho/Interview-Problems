@@ -27,6 +27,7 @@
 -   [Sort An Array](https://leetcode.com/problems/sort-an-array/)
 -   [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 -   [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+-   [Binary Search](https://leetcode.com/problems/binary-search/)
 
 # Algoritmos de Programação e suas Complexidades de Tempo
 
