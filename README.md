@@ -16,6 +16,7 @@
 -   [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true)
 -   [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true)
 -   [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem?isFullScreen=true)
+-   [SHA-256](https://www.hackerrank.com/challenges/sha-256/problem?isFullScreen=true)
 
 ## Leetcode
 
