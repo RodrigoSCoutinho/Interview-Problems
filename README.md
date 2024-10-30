@@ -18,6 +18,7 @@
 -   [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem?isFullScreen=true)
 -   [SHA-256](https://www.hackerrank.com/challenges/sha-256/problem?isFullScreen=true)
 -   [Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem?isFullScreen=true)
+-   [Array - DS](https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true)
 
 ## Leetcode
 
