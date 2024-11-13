@@ -19,6 +19,7 @@
 -   [SHA-256](https://www.hackerrank.com/challenges/sha-256/problem?isFullScreen=true)
 -   [Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem?isFullScreen=true)
 -   [Array - DS](https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true)
+-   [ Print in Reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem?isFullScreen=true)
 
 ## Leetcode
 
