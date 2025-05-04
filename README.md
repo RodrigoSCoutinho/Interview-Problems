@@ -35,6 +35,7 @@
 -   [Binary Search](https://leetcode.com/problems/binary-search/)
 -   [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 -   [Search Insert Position](https://leetcode.com/problems/search-insert-position/) 
+-   [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 
 # Algoritmos de Programação e suas Complexidades de Tempo
 
